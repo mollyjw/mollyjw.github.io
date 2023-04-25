@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+	<defs>
+    	<style>
+        	@import url("https://fonts.googleapis.com/css2?family=Neucha");
+      	</style>     
+  	</defs>
+    <style>
+        .letters {
+          font-size: 175px ;
+          font-weight: bold;
+          fill: #6B62D0;
+          
+          font-family: Neucha
+        }
+    </style>
+   <g transform="translate(150, 150)">
+   	<circle r="150" fill="#C4C0EC" />
+    <text text-anchor="middle" alignment-baseline="central" class="letters">MW</text>
+   </g>
+   Sorry, your browser does not support inline SVG.
+</svg> 
